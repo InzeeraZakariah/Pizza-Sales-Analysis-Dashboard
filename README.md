@@ -95,30 +95,6 @@ The dashboard helps identify:
 * Low-performing products requiring attention.
 * Sales patterns across different categories and products.
 
-## Dashboard Preview
-
-Add your Power BI dashboard screenshot here:
-
-```markdown
-![Pizza Sales Dashboard](images/dashboard.png)
-```
-
-## Project Structure
-
-```text
-Pizza-Sales-Dashboard/
-│
-├── dataset/
-│   └── pizza_sales.csv
-│
-├── dashboard/
-│   └── Pizza_Sales_Dashboard.pbix
-│
-├── images/
-│   └── dashboard.png
-│
-└── README.md
-```
 
 ## Skills Demonstrated
 
